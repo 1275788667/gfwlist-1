@@ -1341,6 +1341,7 @@ gfbv.de
 gfgold.com.hk
 gfsale.com
 gfw.press
+ggpht.com
 ghostpath.com
 giantessnight.com
 gigacircle.com
@@ -1607,6 +1608,7 @@ googleplus.com
 googlesile.com
 googlesource.com
 googlesyndication.com
+googleusercontent.com
 googlevideo.com
 gopetition.com
 goregrish.com
@@ -4013,6 +4015,7 @@ youtube-nocookie.com
 youversion.com
 youxu.info
 yt.be
+ytimg.com
 yuanming.net
 yulghun.com
 yuvutu.com
