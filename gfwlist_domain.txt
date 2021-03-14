@@ -2633,6 +2633,7 @@ paste.ee
 pastebin.com
 pastie.org
 pbs.org
+pbs.twimg.com
 pbwiki.com
 pbworks.com
 pbxes.com
@@ -2850,6 +2851,7 @@ rapidgator.net
 rapidmoviez.com
 rapidvpn.com
 rarbgprx.org
+raw.githubusercontent.com
 rawgit.com
 rawgithub.com
 razyboard.com
@@ -3553,7 +3555,6 @@ twicsy.com
 twiends.com
 twilog.org
 twimbow.com
-twimg.com
 twindexx.com
 twipple.jp
 twishort.com
