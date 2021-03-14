@@ -1589,7 +1589,6 @@ google.vg
 google.vu
 google.ws
 googleanalytics.com
-google-analytics.com
 googleapis.com
 googleapps.com
 googleartproject.com
@@ -3554,6 +3553,7 @@ twicsy.com
 twiends.com
 twilog.org
 twimbow.com
+twimg.com
 twindexx.com
 twipple.jp
 twishort.com
