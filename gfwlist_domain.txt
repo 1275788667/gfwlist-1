@@ -31,6 +31,7 @@
 228.net.tw
 233v2.com
 25u.com
+2du5.com
 2-hand.info
 2lipstube.com
 2shared.com
@@ -1323,6 +1324,7 @@ geek-art.net
 geekheart.info
 gekikame.com
 gelbooru.com
+generated.photos
 geocities.com
 gerefoundation.org
 get.app
