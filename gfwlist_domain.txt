@@ -24,6 +24,7 @@
 1pondo.tv
 2000fun.com
 2008xianzhang.info
+2047.name
 21andy.com
 21pron.com
 21sextury.com
@@ -1351,6 +1352,7 @@ girlbanker.com
 git.io
 github.com
 github.io
+githubusercontent.com
 gizlen.net
 glass8.eu
 globalmediaoutreach.com
@@ -2633,7 +2635,6 @@ paste.ee
 pastebin.com
 pastie.org
 pbs.org
-pbs.twimg.com
 pbwiki.com
 pbworks.com
 pbxes.com
@@ -2851,7 +2852,6 @@ rapidgator.net
 rapidmoviez.com
 rapidvpn.com
 rarbgprx.org
-raw.githubusercontent.com
 rawgit.com
 rawgithub.com
 razyboard.com
@@ -2972,6 +2972,7 @@ searchtruth.com
 secretchina.com
 secretgarden.no
 secretsline.biz
+secureservercdn.net
 securetunnel.com
 securityinabox.org
 securitykiss.com
@@ -3555,6 +3556,7 @@ twicsy.com
 twiends.com
 twilog.org
 twimbow.com
+twimg.com
 twindexx.com
 twipple.jp
 twishort.com
