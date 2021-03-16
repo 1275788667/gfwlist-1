@@ -551,6 +551,7 @@ cdjp.org
 cdn.akamai.steamstatic.com
 cdn.registerdisney.go.com
 cdn.seatguru.com
+cdn34-okzy.net
 cdn-images.mailchimp.com
 cdp1989.org
 cdp1998.org
@@ -1353,6 +1354,7 @@ girlbanker.com
 git.io
 github.com
 github.io
+githubassets.com
 githubusercontent.com
 gizlen.net
 glass8.eu
@@ -2670,6 +2672,7 @@ phayul.com
 philborges.com
 philly.com
 phmsociety.org
+phncdn.com
 photodharma.net
 photofocus.com
 phuquocservices.com
