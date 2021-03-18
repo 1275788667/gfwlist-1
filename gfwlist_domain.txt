@@ -1655,6 +1655,9 @@ gumroad.com
 gunsamerica.com
 gunsandammo.com
 gvm.com.tw
+gvt0.com
+gvt1.com
+gvt3.com
 gwtproject.org
 gyalwarinpoche.com
 gyatsostudio.com
@@ -3939,6 +3942,7 @@ xmovies.com
 xn--4gq171p.com
 xn--90wwvt03e.com
 xn--czq75pvv1aj5c.org
+xn--ngstr-lra8j.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xnxx.com
