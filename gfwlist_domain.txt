@@ -220,6 +220,7 @@ appledaily.com.hk
 appledaily.com.tw
 appshopper.com
 appspot.com
+appspot-preview.com
 aptoide.com
 archive.org
 archive.today
@@ -3946,6 +3947,7 @@ xn--ngstr-lra8j.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xnxx.com
+xnxx-cdn.com
 xpdo.net
 xpud.org
 xrentdvd.com
