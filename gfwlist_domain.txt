@@ -1327,6 +1327,7 @@ gekikame.com
 gelbooru.com
 generated.photos
 geocities.com
+geph.io
 gerefoundation.org
 get.app
 get.dev
@@ -1658,6 +1659,7 @@ gunsandammo.com
 gvm.com.tw
 gvt0.com
 gvt1.com
+gvt2.com
 gvt3.com
 gwtproject.org
 gyalwarinpoche.com
@@ -1836,6 +1838,7 @@ hxwk.org
 hxwq.org
 hybrid-analysis.com
 hyperrate.com
+i.pximg.net
 i1.hk
 i2p2.de
 i2runner.com
@@ -3294,6 +3297,7 @@ tcsovi.org
 tdm.com.mo
 teachparentstech.org
 teamamericany.com
+technews.tw
 techviz.net
 teck.in
 teddysun.com
@@ -3801,6 +3805,7 @@ webbang.net
 webfreer.com
 webjb.org
 webmproject.org
+webpass.net
 webrtc.org
 webrush.net
 websitepulse.com
