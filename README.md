@@ -13,3 +13,6 @@ GFWList URL：https://cdn.jsdelivr.net/gh/XMD0718/gfwlist/gfwlist.txt
 本项目使用[GPL-3.0](./LICENSE)进行许可
 
 佛系更新，若有需要添加至列表的域名，请开issue
+
+## 公告
+本列表是出于自用进行维护的，现我已换用更加强大的V2ray分流以实现GFWList的功能，因此本列表将无限期暂停更新。使用本列表的用户可转至[@Loukky/gfwlist-by-loukky](https://github.com/Loukky/gfwlist-by-loukky)以获得后续更新。
